@@ -4,6 +4,8 @@
 <p align="left">
 </p>
 
+![](https://cdn.discordapp.com/attachments/790231513849266177/982987363728908369/2022-06-05_15_42_14.png)
+
 <h3 align="left">Languages and Tools:</h3>
 
 
