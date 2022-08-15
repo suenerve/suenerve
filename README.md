@@ -1,10 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suegdu&label=Profile%20views&color=0e75b6&style=flat" alt="suegdu" /> </p>
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=suegdu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
 </p>
 
-![](https://cdn.discordapp.com/attachments/790231513849266177/982987363728908369/2022-06-05_15_42_14.png)
 
 <h3 align="left">Languages and Tools:</h3>
 
