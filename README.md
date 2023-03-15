@@ -1,8 +1,8 @@
+[comment]: [![](https://github-readme-stats.vercel.app/api/top-langs/?username=suegdu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=suegdu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">For business and contact: <a href=mailto:suebusiness@proton.me>suebusiness@proton.me</a> </h3>
 
-</p>
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
