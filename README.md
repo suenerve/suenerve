@@ -1,1 +1,1 @@
-## For business and contact: <a href="mailto:suebusiness@proton.me">suebusiness@proton.me</a> 
+**For business and contact: suebusiness@proton.me**
